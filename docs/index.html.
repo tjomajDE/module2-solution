@@ -1,1 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Restaurant Menu</title>
+</head>
+<body>
+    <header>
+        <h1>Restaurant Menu</h1>
+    </header>
 
+    <section class="menu">
+        <h2>Our Menu</h2>
+        <div class="dish">
+            <h3>Chicken</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <div class="dish">
+            <h3>Beef</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <div class="dish">
+            <h3>Sushi</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Restaurant</p>
+    </footer>
+</body>
+</html>
