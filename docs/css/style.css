@@ -34,7 +34,6 @@ header {
     cursor: pointer;
 }
 
-/* Стили для выпадающего меню */
 #collapsable-nav {
     display: none; /* Скрыто по умолчанию */
     width: 100%; /* Меню занимает всю ширину */
