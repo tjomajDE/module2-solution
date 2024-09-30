@@ -1,6 +1,6 @@
 document.getElementById("menu-toggle").addEventListener("click", function() {
     const nav = document.getElementById("collapsable-nav");
-    nav.classList.toggle("navbar-collapse");
+    nav.classList.toggle("navbar-collapse"); // Переключаем класс для скрытия/показ меню
     const expanded = this.getAttribute("aria-expanded") === "true" || false;
     this.setAttribute("aria-expanded", !expanded);
 });
